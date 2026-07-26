@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/workflow-events",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Typed workflow lifecycle events, history, and subscriptions.",
   "keywords": [
     "events",
